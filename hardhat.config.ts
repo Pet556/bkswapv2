@@ -95,7 +95,7 @@ const config: HardhatUserConfig = {
                 enabled: true,
                 runs: 10000,
                 details: {
-                    yul: false
+                    yul: True
                 }
             }
         }
@@ -105,4 +105,4 @@ const config: HardhatUserConfig = {
     }
 };
 
-export default config;
+Import;
